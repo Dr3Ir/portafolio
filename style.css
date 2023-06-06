@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --body-color: #eff0f1;
+}
+
+.top-mobile-nav{
+    display: flex;
+    justify-content: space-between;
+    background: var(--body-color);
+}
+.left-nav{
+    
+}
